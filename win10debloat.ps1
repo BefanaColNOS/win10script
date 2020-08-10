@@ -33,7 +33,7 @@ $tweaks = @(
 	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
 	#"InstallAdobe",
 	"Install7Zip",
-	"InstallNotepadplusplus",
+	#"InstallNotepadplusplus",
 	#"InstallMediaPlayerClassic",
 
 	### Windows Apps
